@@ -1,0 +1,26 @@
+{
+  "DLeebron": {
+    "username": "DLeebron",
+    "headline": "This is my headline!",
+    "email": "foo@bar.com",
+    "zipcode": 12345,
+    "dob": "128999122000",
+    "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DWLeebron.jpg/220px-DWLeebron.jpg"
+  },
+  "Bret": {
+    "username": "Bret",
+    "headline": "Happy!",
+    "email": "Sincere@april.biz",
+    "zipcode": "92998-3874",
+    "dob": "128999112000",
+    "avatar": "https://avatarfiles.alphacoders.com/298/298982.jpg"
+  },
+  "Antonette": {
+    "username": "Antonette",
+    "headline": "Busy!",
+    "email": "Shanna@melissa.tv",
+    "zipcode": "90566-7771",
+    "dob": "128999102000",
+    "avatar": "https://avatarfiles.alphacoders.com/160/160772.jpg"
+  }
+}
